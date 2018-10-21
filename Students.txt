@@ -1,0 +1,12 @@
+Name: Rame
+Class: 32
+Roll no.: 12
+
+Name: Shyame
+Class: 32
+Roll no.: 11
+
+Name: Ram
+Class: 32
+Roll no.: 23
+
